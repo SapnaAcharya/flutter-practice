@@ -21,7 +21,7 @@ class _MyLoginState extends State<MyLogin> {
               Container(
                 padding: EdgeInsets.only(left: 35, top: 130),
                 child: Text(
-                  'Welcome\nBack',
+                  'Welcome Back',
                   style: TextStyle(color: Colors.black, fontSize: 33),
                 ),
               ),
